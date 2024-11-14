@@ -1,0 +1,7 @@
+Excuse me, where is the nearest busstation?
+Does this bus go to []?
+How much is a ticket to []?
+Is this seat taken?
+When is the next bus to []?
+Which stop is []?
+Can you help me find my way to []?

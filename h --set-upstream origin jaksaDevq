@@ -1,0 +1,74 @@
+[33mcommit dec92c5614f71efa171170f8e4818bf6692860c8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjaksaDev[m[33m, [m[1;31morigin/jaksaDev[m[33m)[m
+Merge: fd2ad37 4350392
+Author: irenajo <irenazjos@gmail.com>
+Date:   Sun Mar 31 03:17:15 2024 +0200
+
+    mainscreen
+
+[33mcommit fd2ad37b8399c7171e0003559821b6bc0b4af01f[m[33m ([m[1;31morigin/irenadev[m[33m, [m[1;32mirenadev[m[33m)[m
+Author: irenajo <irenazjos@gmail.com>
+Date:   Sun Mar 31 03:03:45 2024 +0200
+
+    boje
+
+[33mcommit 4350392e931fcbc1a722fe485a79b7b8667d44e3[m
+Author: Jaksa <jaksamacanovic2002@gmail.com>
+Date:   Sun Mar 31 01:48:28 2024 +0100
+
+    jaksa promena lajk/dislajk
+
+[33mcommit c2bb22463815b121b1c66cd23f5484f53db23bf4[m
+Merge: 1675a34 480c4c8
+Author: irenajo <irenazjos@gmail.com>
+Date:   Sun Mar 31 00:04:27 2024 +0100
+
+    Merge branch 'master' of https://github.com/Gojicluka/fon_hakaton_2024 into irenadev
+
+[33mcommit 1675a34a997de7f522d56743d5c4477f0f0b9ecf[m
+Author: irenajo <irenazjos@gmail.com>
+Date:   Sun Mar 31 00:02:45 2024 +0100
+
+    prodza ne radi
+
+[33mcommit b8b79f00dee2979ee661de63843306456b327b7b[m
+Merge: 15f4865 480c4c8
+Author: Jaksa <jaksamacanovic2002@gmail.com>
+Date:   Sat Mar 30 22:44:54 2024 +0100
+
+    Merge branch 'master' into jaksaDev
+
+[33mcommit 15f48651a3d8c0044c0d4a87d7eb4a6dd48ef0e6[m
+Author: Jaksa <jaksamacanovic2002@gmail.com>
+Date:   Sat Mar 30 22:43:51 2024 +0100
+
+    jaksa commit
+
+[33mcommit 480c4c8d343e4ca3672cc410169a7c75f425aa0b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Luka Gojic <gojicluka@gmail.com>
+Date:   Sat Mar 30 22:37:04 2024 +0100
+
+    added materialColorTheme
+
+[33mcommit 6a584a0f29c7bb65016ec966124623e045a7894e[m
+Author: Jaksa <jaksamacanovic2002@gmail.com>
+Date:   Sat Mar 30 22:22:46 2024 +0100
+
+    jaksaDev promena
+
+[33mcommit 59156aa109023fa6bdad3d3f20c976264b8ad4f2[m
+Author: Luka Gojic <gojicluka@gmail.com>
+Date:   Sat Mar 30 22:16:37 2024 +0100
+
+    dodata navigacija
+
+[33mcommit c5eafacb5e0ca1ad628b7e568b67a1707473d1cf[m[33m ([m[1;32mmaster[m[33m, [m[1;32mirkedev[m[33m)[m
+Author: irenajo <irenazjos@gmail.com>
+Date:   Sat Mar 30 17:35:48 2024 +0100
+
+    screens folder sa ekranima za implementaciju
+
+[33mcommit c60f8b24b678fd78ed5dbdfbe0d52be39605f151[m
+Author: Luka Gojic <gojicluka@gmail.com>
+Date:   Sat Mar 30 17:08:34 2024 +0100
+
+    initial commit

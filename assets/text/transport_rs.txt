@@ -1,0 +1,6 @@
+Izvini, gde je najbliža autobuska stanica?
+Da li ovaj autobus staje kod []?
+Koliko kosta karta do []?
+Da li je ovo mesto zauzeto?
+Kada dolazi sledeci autobus za []?
+Kako da dodjem do mesta []?

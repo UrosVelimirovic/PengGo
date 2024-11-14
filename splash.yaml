@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#CBC5A9"
+  color_dark: "#CBC5A9"
+  color_light: "#CBC5A9"
+  image: assets\images\pengi.jpg
+  image_dark: assets\images\pengi.jpg
+
+  android_12:
+    color: "#CBC5A9"
+    color_dark: "#CBC5A9"
+    color_light: "#CBC5A9"
+    image: assets\images\pengi.jpg
+    image_dark: assets\images\pengi.jpg
+
+  web: false
